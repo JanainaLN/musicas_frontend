@@ -19,4 +19,5 @@ async function buscarMusicas(){
         `
     })
 }
+
 buscarMusicas()
